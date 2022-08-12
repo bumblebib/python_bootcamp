@@ -7,4 +7,4 @@ Contents Learned:
 - Type Error, Type Checking and Type Conversion
 - Mathematical Operations in Python
 - Number Manipulation and F Strings in Python
-- **Day 2 Project: [a relative link](main.py)Tip Calculator**
+- **Day 2 Project: [Tip Calculator](main.py)**
