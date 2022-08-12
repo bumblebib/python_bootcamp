@@ -10,4 +10,4 @@ Contents Learned:
 - Python input Function
 - Python Variables
 - Variable Naming
-- **Day 1 Project: [a relative link](main.py)Band Name Generator**
+- **Day 1 Project: [Band Name Generator](main.py)**
